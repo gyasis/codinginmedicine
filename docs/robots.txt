@@ -1,4 +1,4 @@
 User-agent: *
-Sitemap: /sitemap.xml
+Sitemap: http://gyasis.github.io/sitemap.xml
 Disallow: /ghost/
 Disallow: /p/
